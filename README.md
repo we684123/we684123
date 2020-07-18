@@ -4,7 +4,7 @@
 - 🌱 最近在學習 TypeScript、Deno    
 - 🔭 正在研究 "Deno + TS + google_apps_script" 組合起來的框架(28%)    
 - 💻 擅長後端(python、JS)、IM bot  
-- 🎵 最近在聽 [Wave, Listen to me!](https://www.youtube.com/watch?v=Kds8RFC-IIA)
+- 🎵 最近在聽 [Re:從零開始的異世界生活 ED「STYX HELIX」](https://www.youtube.com/watch?v=mYQQj0XbYoc)
 
 <!--
 **we684123/we684123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
