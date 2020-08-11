@@ -4,7 +4,7 @@
 - 🌱 最近在學習 TypeScript、Deno    
 - 🔭 正在研究 "Deno + TS + google_apps_script" 組合起來的框架(28%)    
 - 💻 擅長後端(python、JS)、IM bot  
-- 🎵 最近在聽 [Pitbull - Do It Feat. Mayer Hawthorne](https://www.youtube.com/watch?v=PjNTi8JAAY8)
+- 🎵 最近在聽 [老王樂隊｜你啊你啊 Cover -TME特別翻唱企劃「返場」之「華語金曲：10 20 30」【原唱：waawei 魏如萱 】](https://www.youtube.com/watch?v=e69jHUyhqZk)
 
 <!--
 **we684123/we684123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
