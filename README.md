@@ -4,7 +4,7 @@
 - 🌱 最近在學習 TypeScript、Deno    
 - 🔭 正在研究 "Deno + TS + google_apps_script" 組合起來的框架(28%)    
 - 💻 擅長後端(python、JS)、IM bot  
-- 🎵 最近在聽 [好樂團 GoodBand－他們說我是沒有用的年輕人 Official Lyrics Video](https://www.youtube.com/watch?v=FNJG6MsKO0k)
+- 🎵 最近在聽 [Re:從零開始的異世界生活 第二季ED Memento／nonoc /mix/FUll](https://www.youtube.com/watch?v=_zyiFu0A6Ag)
 
 <!--
 **we684123/we684123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
