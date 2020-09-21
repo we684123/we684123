@@ -6,7 +6,7 @@
 - 💻 擅長後端(python、JS)、IM bot  
 - 🎵 最近在聽 [珂拉琪 Collage／萬千花蕊慈母悲哀](https://www.youtube.com/watch?v=kkUWlcjmOew)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=we684123&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=we684123&show_icons=true&theme=onedark)
 
 <!--
 **we684123/we684123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
