@@ -4,7 +4,7 @@
 - 🌱 最近在學習 TypeScript、Deno    
 - 🔭 正在研究 "Deno + TS + google_apps_script" 組合起來的框架(28%)    
 - 💻 擅長後端(python、JS)、IM bot  
-- 🎵 最近在聽 [江蕙--風吹風吹](https://www.youtube.com/watch?v=c43t01MqPwo)
+- 🎵 最近在聽 [魔女之旅 OP](https://www.youtube.com/watch?v=DpBjEtknSHo)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=we684123&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=we684123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
