@@ -4,7 +4,7 @@
 - 🌱 最近在學習 TypeScript、Deno    
 - 🔭 正在研究 "Deno + TS + google_apps_script" 組合起來的框架(28%)    
 - 💻 擅長後端(python、JS)、IM bot  
-- 🎵 最近在聽 [「WILL-TRUE」紫羅蘭永恆花園 劇場版 ED 主題曲 Full (中日字幕)](https://www.youtube.com/watch?v=c5t_8yXGzT4)
+- 🎵 最近在聽 [江蕙--風吹風吹](https://www.youtube.com/watch?v=c43t01MqPwo)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=we684123&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=we684123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
