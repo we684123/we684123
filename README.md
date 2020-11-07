@@ -1,9 +1,8 @@
 ### Hi there 👋
 綽號叫武則天，水瓶座，喜歡吃羊羹 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄    
  
-- 🌱 最近在學習 TypeScript、Deno    
-- 🔭 正在研究 "Deno + TS + google_apps_script" 組合起來的框架(28%)    
-- 💻 擅長後端(python、JS)、IM bot  
+- 🌱 最近在學習 TypeScript、Deno、python    
+- 🔭 目標是 DevOps    
 - 🎵 最近在聽 [魔女之旅 OP](https://www.youtube.com/watch?v=DpBjEtknSHo)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=we684123&show_icons=true&theme=tokyonight) 
