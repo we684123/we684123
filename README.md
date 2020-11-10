@@ -3,7 +3,7 @@
  
 - 🌱 最近在學習 TypeScript、Deno、python    
 - 🔭 目標是 DevOps    
-- 🎵 最近在聽 [魔女之旅 OP](https://www.youtube.com/watch?v=DpBjEtknSHo)
+- 🎵 最近在聽 [Noa Bentor- TIME official video נועה בנתור](https://www.youtube.com/watch?v=IsnBo6pqrPI)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=we684123&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=we684123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
