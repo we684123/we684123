@@ -2,7 +2,7 @@
 綽號叫武則天，水瓶座，喜歡吃羊羹 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄    
  
 - 🌱 最近在學習 DevOps 相關    
-- 🎵 最近在聽 [【Sky: Children of the Light】V.K - Paper Plane's Adventure - cover](https://www.youtube.com/watch?v=enRlLEzHqCk)
+- 🎵 最近在聽 [Violet Evergarden - Best OST Covers](https://www.youtube.com/watch?v=nt4g6yMPoLE)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=we684123&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=we684123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
