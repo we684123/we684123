@@ -2,7 +2,7 @@
 綽號叫武則天，水瓶座，喜歡吃羊羹 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄    
  
 - 🌱 最近在學習 DevOps 相關    
-- 🎵 最近在聽 [Africa Express - 'Morals' ft. Moonchild Sanelly, Mahotella Queens, Muzi, Mr Jukes](https://www.youtube.com/watch?v=rf8cv8DNTzA)
+- 🎵 最近在聽 [珂拉琪 Collage／MALIYANG](https://streetvoice.com/collage7275/songs/609546/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=we684123&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=we684123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
