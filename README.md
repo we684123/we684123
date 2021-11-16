@@ -2,7 +2,7 @@
 綽號叫武則天，水瓶座，喜歡吃羊羹 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄    
  
 - 🌱 最近在學習 DevOps 相關    
-- 🎵 最近在聽 [鄭興 Leon Zheng【開往三重的慢車 Slow Bus to Sanchong】Official Lyrics Video](https://www.youtube.com/watch?v=YXQmgQZxUeM)
+- 🎵 最近在聽 [四季](https://www.youtube.com/watch?v=Nm0HTbO5HhM)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=we684123&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=we684123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
