@@ -2,7 +2,7 @@
 綽號叫武則天，水瓶座，喜歡吃羊羹 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄    
  
 - 🌱 最近在學習 DevOps 相關    
-- 🎵 最近在聽 [Manchester Orchestra - The Silence (Official Music Video)](https://www.youtube.com/watch?v=8ui9umU0C2g)
+- 🎵 最近在聽 [寫完這首歌我就會放下你了](https://streetvoice.com/wc109101065/songs/672140/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=we684123&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=we684123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
