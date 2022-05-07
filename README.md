@@ -3,6 +3,7 @@
  
 - 🌱 最近在學習 DevOps 相關    
 - 🎵 最近在聽 [My Nonfiction | 輝夜姬想讓人告白 ー超級浪漫ー 第三季 第05集 ED 片尾曲](https://www.youtube.com/watch?v=4EkbHQGCxhE)
+- 🎵 最近在聽 [美波 Kawakiwo ameku「カワキヲアメク」（中文字母）](https://www.youtube.com/watch?v=0YF8vecQWYs)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=we684123&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=we684123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
