@@ -2,7 +2,7 @@
 綽號叫武則天，水瓶座，喜歡吃羊羹 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄    
  
 - 🌱 最近在學習 DevOps 相關    
-- 🎵 最近在聽 [Overlord Season 4 Ending Full - 「No Man's Dawn」by Mayu Maeshima](https://www.youtube.com/watch?v=TEh84UhUcdE)
+- 🎵 最近在聽 [【中日歌詞】來自深淵 烈日的黃金鄉 OP | Made In Abyss OP2 |「かたち」 By 安月名莉子 Full Opening《純粹中翻》](https://www.youtube.com/watch?v=rf9diu5JgbQ)
 - 🎵 最近在聽 [MYTH & ROID「Endless Embrace」MV（TVアニメ「メイドインアビス 烈日の黄金郷」EDテーマ）](https://www.youtube.com/watch?v=Q-0s23Wu4QI)
 
 ![Anurag's github stats](https://github-readme-stats-git-master-we684123.vercel.app/api?username=we684123&show_icons=true&theme=tokyonight) 
