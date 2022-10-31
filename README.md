@@ -1,5 +1,5 @@
 ### Hi there 👋
-綽號叫武則天，水瓶座，喜歡吃羊羹 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄    
+綽號叫則天，水瓶座，喜歡吃羊羹 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄    
  
 - 🌱 最近在學習 DevOps 相關    
 - 🎵 最近在聽 [AURORA - Runaway](https://www.youtube.com/watch?v=d_HlPboLRL8)
