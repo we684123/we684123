@@ -2,7 +2,7 @@
 綽號叫則天，水瓶座，喜歡吃羊羹 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄    
  
 - 🌱 最近在學習 DevOps 相關    
-- 🎵 最近在聽 [ ｜台語翻唱｜YOASOBI「アイドル」Cover by 柏慎BoShen ](https://www.youtube.com/watch?v=u1RuIH4guO0)
+- 🎵 最近在聽 [デキる猫は今日も憂鬱　ノンクレジットOP／OPテーマ「憂う門には福来たる」歌：somei](https://www.youtube.com/watch?v=rSiUTwrcvWg)
 
 ![Anurag's github stats](https://github-readme-stats-git-master-we684123.vercel.app/api?username=we684123&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats-git-master-we684123.vercel.app/api/top-langs/?username=we684123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
