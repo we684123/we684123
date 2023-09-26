@@ -1,9 +1,7 @@
-### Hi there 👋
-綽號叫則天，水瓶座，喜歡吃羊羹 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄    
+### Hi there 👋 
  
 - 🌱 最近在學習 DevOps 相關    
-- 🎵 最近在聽 [デキる猫は今日も憂鬱　ノンクレジットOP／OPテーマ「憂う門には福来たる」歌：somei](https://www.youtube.com/watch?v=rSiUTwrcvWg)
-- 🎵 最近在聽 [ RWBY Volume 2 - Time To Say Goodbye + Lyrics ](https://www.youtube.com/watch?v=RQXe22auYOw)
+- 🎵 [Anson Seabra - Keep Your Head Up Princess (Official Music Video)](https://www.youtube.com/watch?v=_O9fSScHLl8)
 
 ![Anurag's github stats](https://github-readme-stats-git-master-we684123.vercel.app/api?username=we684123&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats-git-master-we684123.vercel.app/api/top-langs/?username=we684123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
