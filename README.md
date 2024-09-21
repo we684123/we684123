@@ -1,7 +1,7 @@
 ### Hi there 👋 
  
-- 🌱 最近在學習 DevOps 相關    
-- 🎵 [Qualia](https://youtu.be/CZfjDFqfjuA?si=oQHTy8flTj0LTIcQ)
+- 🌱 最近在學習 可觀測性 相關    
+- 🎵 [Omoinotake | 幾億光年 【Official Music Video】](https://www.youtube.com/watch?v=P7bVX6fJfCg)
 
 ![Anurag's github stats](https://github-readme-stats-git-master-we684123.vercel.app/api?username=we684123&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats-git-master-we684123.vercel.app/api/top-langs/?username=we684123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
