@@ -1,7 +1,7 @@
 ### Hi there 👋 
  
 - 🌱 最近在學習 可觀測性 相關    
-- 🎵 [ 滅火器 Fire EX. - 晚安台灣 Good night! Formosa! ](https://www.youtube.com/watch?v=MaJYdrJP3uw)
+- 🎵 [ CHTHONIC閃靈【ENDLESS AEONS 百萬遍】Music Video ](https://youtu.be/xVIXCEyPrm8?si=cYdUDpUVCXLyBEZK)
 
 ![Anurag's github stats](https://github-readme-stats-git-master-we684123.vercel.app/api?username=we684123&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats-git-master-we684123.vercel.app/api/top-langs/?username=we684123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
